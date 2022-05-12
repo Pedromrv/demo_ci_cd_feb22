@@ -12,7 +12,7 @@ $ npm run lint:fix
 ## Run tests
 
 ```sh
-$ npm test
+$ npm _test_
 ```
 
 
